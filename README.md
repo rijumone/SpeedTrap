@@ -1,8 +1,8 @@
-LIVE_SPEEDTRAP
+# LIVE_SPEEDTRAP
 
-# Mobile application to simulate Speed trap challenges seen in the popular racing video game franchise “Need For Speed” (henceforth, NFS) in the real world.
+#### Mobile application to simulate Speed trap challenges seen in the popular racing video game franchise “Need For Speed” (henceforth, NFS) in the real world.
 
-SpeedTrap:
+###SpeedTrap:
 Point location which one must cross at a minimum speed of x km/h.
 
 Proposed flow:
@@ -10,8 +10,8 @@ Proposed flow:
 2. User profile created either via social login or locally on device and synced to cloud.
 3. Map loads up showing nearby speedtraps and user’s location in the center.
 User taps on a speedtrap which loads up the following information in a popup card:
-  # Target speed of speedtrap
-  # Distance to speedtrap from current location
+  . Target speed of speedtrap
+  . Distance to speedtrap from current location
 ETA to speedtrap from current location
 Global best of speedtrap
 User’s best of speedtrap
