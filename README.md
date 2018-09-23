@@ -10,11 +10,11 @@ Proposed flow:
 2. User profile created either via social login or locally on device and synced to cloud.
 3. Map loads up showing nearby speedtraps and user’s location in the center.
 User taps on a speedtrap which loads up the following information in a popup card:
-  * Target speed of speedtrap
-  * Distance to speedtrap from current location
-  * ETA to speedtrap from current location
-  * Global best of speedtrap
-  * User’s best of speedtrap
+    * Target speed of speedtrap
+    * Distance to speedtrap from current location
+    * ETA to speedtrap from current location
+    * Global best of speedtrap
+    * User’s best of speedtrap
 4. From this popup the user can “start” speedtrap attempt.
 5. A route to speedtrap will be shown and navigation will work similar to GoogleMaps, Uber, Ola, etc
 6. Once the point (or nearby) is reached, a notification will be issued and the user is free to start attempting.
